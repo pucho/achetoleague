@@ -24,10 +24,10 @@ export const addPointsToEvent = (event: Event) => {
   return {
     name: event.name,
     results: mergedPoints.sort((a, b) => {
-      if (a.race1 > b.race2) {
-        return 1;
-      } else {
+      if (a.race1 > b.race1) {
         return -1;
+      } else {
+        return 1;
       }
     }),
   };
