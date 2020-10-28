@@ -1,14 +1,5 @@
-import {
-  Link as ChakraLink,
-  Text,
-  Code,
-  Icon,
-  List,
-  ListIcon,
-  ListItem,
-  Heading,
-  Box,
-} from "@chakra-ui/core";
+import { Heading, Box } from "@chakra-ui/core";
+import Link from "next/link";
 
 import { Hero } from "../components/Hero";
 import { Container } from "../components/Container";
@@ -38,6 +29,12 @@ function Index() {
                   />
                 );
               })}
+              <a
+                target="_blank"
+                href="https://drive.google.com/file/d/1cZlWF0LtbXdFeTemfAzRFId3HyXhQeky/view?usp=sharing"
+              >
+                Replay Carrera 1
+              </a>
             </Box>
           </div>
         );
