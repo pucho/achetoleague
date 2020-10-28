@@ -16,18 +16,18 @@ export const addPointsToEvent = (event: Event) => {
 
   //merge both user lists to have race1 and race2 points on each user object.
   let mergedPoints = race1WithPoints.map((user, index) => {
+    //map 2ndrace points and assign to race1 user object
     const pilot2ndRace = race2WithPoints.find((pilot) => pilot.id === user.id);
     return { ...user, ...pilot2ndRace };
-    // return
   });
 
   return {
     name: event.name,
     results: mergedPoints.sort((a, b) => {
-      if (a.race1 > b.race2) {
-        return 1;
-      } else {
+      if (a.race1 > b.race1) {
         return -1;
+      } else {
+        return 1;
       }
     }),
   };
