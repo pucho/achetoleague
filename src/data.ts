@@ -65,27 +65,27 @@ const brandshatch = {
   race1: [
     { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09" },
     { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c" },
-    { name: "uyrace", id: "8d403e4d-b053-4474-80e8-1e65af042425" },
     { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba" },
-    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
     { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339" },
     { name: "manije", id: "6652adb4-304e-44a0-aede-a95070529569" },
-    { name: "liderguitar", id: "616c1a7d-069c-4f89-97b9-317eba3668e5" },
+    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
   ],
   race2: [
     { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09" },
     { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba" },
     { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c" },
-    { name: "uyrace", id: "8d403e4d-b053-4474-80e8-1e65af042425" },
-    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
-    { name: "liderguitar", id: "616c1a7d-069c-4f89-97b9-317eba3668e5" },
-    { name: "manije", id: "6652adb4-304e-44a0-aede-a95070529569" },
     { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339" },
+    { name: "manije", id: "6652adb4-304e-44a0-aede-a95070529569" },
+    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
+  ],
+  replays: [
+    "https://drive.google.com/file/d/1cZlWF0LtbXdFeTemfAzRFId3HyXhQeky/view?usp=sharing",
+    "https://drive.google.com/file/d/1cZlWF0LtbXdFeTemfAzRFId3HyXhQeky/view?usp=sharing",
   ],
 };
 
 //update after each round
-export const events = [donington];
+export const events = [donington, brandshatch];
 
 type raceType = "race1" | "race2";
 type raceResults = User[];
