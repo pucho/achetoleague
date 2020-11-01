@@ -30,5 +30,6 @@ export const addPointsToEvent = (event: Event) => {
         return 1;
       }
     }),
+    replays: event.replays,
   };
 };
