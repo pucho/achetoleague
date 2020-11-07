@@ -1,6 +1,4 @@
-import { Heading } from "@chakra-ui/core";
 import { useRouter } from "next/router";
-import { Container } from "../../components/Container";
 
 import { users } from "../../data";
 
@@ -12,9 +10,9 @@ const UserProfile = () => {
   console.log(selectedUser);
 
   return (
-    <Container>
-      <Heading>Pelode {userId}</Heading>
-    </Container>
+    <div>
+      <h1>Pelode {userId}</h1>
+    </div>
   );
 };
 

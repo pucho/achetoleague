@@ -1,7 +1,4 @@
-import { Heading, Box, Flex } from "@chakra-ui/core";
 import Link from "next/link";
-
-import { Container } from "../components/Container";
 
 import { events, User } from "../data";
 import { addPointsToEvent } from "../utils";
@@ -12,12 +9,12 @@ function Index() {
     return addPointsToEvent(race);
   });
   return (
-    <Container>
+    <div>
       {raceResults.map(({ name, results, replays }) => {
         return (
           <div key={name}>
-            <Heading>{name}</Heading>
-            <Box style={{ display: "flex", flexDirection: "column" }}>
+            <h1>{name}</h1>
+            <div style={{ display: "flex", flexDirection: "column" }}>
               {results.map((pilot, index) => {
                 return (
                   <EventRow
@@ -27,7 +24,13 @@ function Index() {
                   />
                 );
               })}
-              <Flex direction="row" justifyContent="space-around">
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "row",
+                  justifyContent: "space-around",
+                }}
+              >
                 {replays.map((replay, index) => {
                   return (
                     <a target="_blank" href={replay} key={replay}>
@@ -35,12 +38,12 @@ function Index() {
                     </a>
                   );
                 })}
-              </Flex>
-            </Box>
+              </div>
+            </div>
           </div>
         );
       })}
-    </Container>
+    </div>
   );
 }
 
