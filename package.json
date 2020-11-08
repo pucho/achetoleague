@@ -20,6 +20,8 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@types/react": "^16.9.56"
+    "@types/react": "^16.9.56",
+    "postcss-flexbugs-fixes": "^5.0.1",
+    "postcss-preset-env": "^6.7.0"
   }
 }
