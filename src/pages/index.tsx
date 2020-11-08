@@ -1,7 +1,4 @@
-import { Heading, Box, Flex } from "@chakra-ui/core";
 import Link from "next/link";
-
-import { Container } from "../components/Container";
 
 import { events, User } from "../data";
 import { addPointsToEvent } from "../utils";
@@ -12,12 +9,12 @@ function Index() {
     return addPointsToEvent(race);
   });
   return (
-    <Container>
+    <div className="container mx-auto px-4 bg-gray-900">
       {raceResults.map(({ name, results, replays }) => {
         return (
-          <div key={name}>
-            <Heading>{name}</Heading>
-            <Box style={{ display: "flex", flexDirection: "column" }}>
+          <div key={name} className="divide-y-2 divide-solid divide-gray-100">
+            <h1 className="text-xl font-bold text-white">{name}</h1>
+            <div className="flex flex-col">
               {results.map((pilot, index) => {
                 return (
                   <EventRow
@@ -27,20 +24,31 @@ function Index() {
                   />
                 );
               })}
-              <Flex direction="row" justifyContent="space-around">
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "row",
+                  justifyContent: "space-around",
+                }}
+              >
                 {replays.map((replay, index) => {
                   return (
-                    <a target="_blank" href={replay} key={replay}>
+                    <a
+                      target="_blank"
+                      href={replay}
+                      key={replay}
+                      className="text-white"
+                    >
                       {`Replay Carrera ${index + 1}`}
                     </a>
                   );
                 })}
-              </Flex>
-            </Box>
+              </div>
+            </div>
           </div>
         );
       })}
-    </Container>
+    </div>
   );
 }
 

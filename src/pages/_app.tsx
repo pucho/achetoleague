@@ -1,17 +1,9 @@
-import { ThemeProvider, CSSReset, ColorModeProvider } from "@chakra-ui/core";
 import { AppProps } from "next/dist/next-server/lib/router/router";
 
-import theme from "../theme";
+import "../css/tailwind.css";
 
 function MyApp({ Component, pageProps }: AppProps) {
-  return (
-    <ThemeProvider theme={theme}>
-      <ColorModeProvider>
-        <CSSReset />
-        <Component {...pageProps} />
-      </ColorModeProvider>
-    </ThemeProvider>
-  );
+  return <Component {...pageProps} />;
 }
 
 export default MyApp;
