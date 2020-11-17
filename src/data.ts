@@ -115,8 +115,32 @@ const redbullring = {
   ],
 };
 
+const okayama = {
+  name: "Okayama GP",
+  race1: [
+    { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09" },
+    { name: "etarra", id: "f44f1372-0872-44e4-a0b5-a9f518a86fec" },
+    { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339" },
+    { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c" },
+    { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba" },
+    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
+  ],
+  race2: [
+    { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09" },
+    { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba" },
+    { name: "etarra", id: "f44f1372-0872-44e4-a0b5-a9f518a86fec" },
+    { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c" },
+    { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339" },
+    { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
+  ],
+  replays: [
+    "https://drive.google.com/file/d/1guLrFNAw6SKc2Ugx_ZC18ogUl7YuHAuG/view?usp=sharing",
+    "https://drive.google.com/file/d/1guLrFNAw6SKc2Ugx_ZC18ogUl7YuHAuG/view?usp=sharing",
+  ],
+};
+
 //update after each round
-export const events = [donington, brandshatch, redbullring];
+export const events = [donington, brandshatch, redbullring, okayama];
 
 type raceType = "race1" | "race2";
 type raceResults = User[];
