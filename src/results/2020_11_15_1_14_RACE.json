@@ -1,0 +1,3245 @@
+{
+	"TrackName": "okayama",
+	"TrackConfig": "circuit_gp",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 0,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Ketu",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561197965466682",
+				"GuidsList": [
+					"76561197965466682"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "sony",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Connor McSida",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198007338298",
+				"GuidsList": [
+					"76561198007338298"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "postre",
+			"BallastKG": 46,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Manije",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198074280336",
+				"GuidsList": [
+					"76561198074280336"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "manija",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "UyRace",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198076767014",
+				"GuidsList": [
+					"76561198076767014"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "martini",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "gulf",
+			"BallastKG": 37,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "LiderGuitar",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198028351503",
+				"GuidsList": [
+					"76561198028351503"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "cordobes",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "Tilli",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198050719877",
+				"GuidsList": [
+					"76561198050719877"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "tillo",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Sebastian",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198013489022",
+				"GuidsList": [
+					"76561198013489022"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "xbox",
+			"BallastKG": 25,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "pucho",
+			"BallastKG": 58,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "pelado",
+			"BallastKG": 56,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "SantiCaccu",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "bochaxe",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "1",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "6",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "10",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 15,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "35",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 16,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "12",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 17,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "04",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 18,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "70",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 19,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "39",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 20,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "38",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 21,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "84",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 22,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "4",
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"CarId": 23,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": [
+					""
+				]
+			},
+			"Model": "fiat_tipo_competizione",
+			"Skin": "5",
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 98862,
+			"TotalTime": 1211906,
+			"BallastKG": 58,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 100009,
+			"TotalTime": 1212700,
+			"BallastKG": 46,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 99691,
+			"TotalTime": 1217127,
+			"BallastKG": 37,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 100077,
+			"TotalTime": 1218959,
+			"BallastKG": 56,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 100316,
+			"TotalTime": 1226200,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 100716,
+			"TotalTime": 1258298,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tilli",
+			"DriverGuid": "76561198050719877",
+			"CarId": 6,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 103105,
+			"TotalTime": 215626,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Sebastian",
+			"DriverGuid": "76561198013489022",
+			"CarId": 7,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 25,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Ketu",
+			"DriverGuid": "76561197965466682",
+			"CarId": 0,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "LiderGuitar",
+			"DriverGuid": "76561198028351503",
+			"CarId": 5,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "UyRace",
+			"DriverGuid": "76561198076767014",
+			"CarId": 3,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Manije",
+			"DriverGuid": "76561198074280336",
+			"CarId": 2,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 12,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 13,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 14,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 15,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 16,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 17,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 18,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 19,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 20,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 21,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 22,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "",
+			"CarId": 23,
+			"CarModel": "fiat_tipo_competizione",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0,
+			"Restrictor": 0
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3553218,
+			"LapTime": 106861,
+			"Sectors": [
+				29844,
+				42686,
+				34331
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3554177,
+			"LapTime": 107809,
+			"Sectors": [
+				30395,
+				43025,
+				34389
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3555288,
+			"LapTime": 108923,
+			"Sectors": [
+				31119,
+				43479,
+				34325
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3555719,
+			"LapTime": 109361,
+			"Sectors": [
+				30855,
+				43596,
+				34910
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3555968,
+			"LapTime": 109611,
+			"Sectors": [
+				31842,
+				43415,
+				34354
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3557646,
+			"LapTime": 111277,
+			"Sectors": [
+				30961,
+				45428,
+				34888
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tilli",
+			"DriverGuid": "76561198050719877",
+			"CarId": 6,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3558879,
+			"LapTime": 112519,
+			"Sectors": [
+				31316,
+				44609,
+				36594
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3654090,
+			"LapTime": 100868,
+			"Sectors": [
+				23716,
+				42584,
+				34568
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3655452,
+			"LapTime": 101269,
+			"Sectors": [
+				23576,
+				43039,
+				34654
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3655949,
+			"LapTime": 100650,
+			"Sectors": [
+				23456,
+				42750,
+				34444
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3656034,
+			"LapTime": 100316,
+			"Sectors": [
+				23394,
+				43038,
+				33884
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3656950,
+			"LapTime": 100971,
+			"Sectors": [
+				23696,
+				42980,
+				34295
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3657307,
+			"LapTime": 99653,
+			"Sectors": [
+				23415,
+				42398,
+				33840
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Tilli",
+			"DriverGuid": "76561198050719877",
+			"CarId": 6,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3661988,
+			"LapTime": 103105,
+			"Sectors": [
+				24418,
+				43439,
+				35248
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3754625,
+			"LapTime": 100541,
+			"Sectors": [
+				23708,
+				42647,
+				34186
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3756166,
+			"LapTime": 100716,
+			"Sectors": [
+				23680,
+				43173,
+				33863
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3756676,
+			"LapTime": 100640,
+			"Sectors": [
+				23853,
+				43024,
+				33763
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3757482,
+			"LapTime": 101546,
+			"Sectors": [
+				24066,
+				43285,
+				34195
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3757872,
+			"LapTime": 100934,
+			"Sectors": [
+				23598,
+				43096,
+				34240
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3757975,
+			"LapTime": 100676,
+			"Sectors": [
+				24195,
+				42623,
+				33858
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3855181,
+			"LapTime": 100559,
+			"Sectors": [
+				23654,
+				42795,
+				34110
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3857280,
+			"LapTime": 101115,
+			"Sectors": [
+				23791,
+				43200,
+				34124
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3857542,
+			"LapTime": 100060,
+			"Sectors": [
+				23672,
+				42683,
+				33705
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3858346,
+			"LapTime": 101666,
+			"Sectors": [
+				24086,
+				42940,
+				34640
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3858672,
+			"LapTime": 100699,
+			"Sectors": [
+				24186,
+				42867,
+				33646
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3859813,
+			"LapTime": 101945,
+			"Sectors": [
+				24325,
+				43259,
+				34361
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3955426,
+			"LapTime": 100249,
+			"Sectors": [
+				23695,
+				42629,
+				33925
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3958462,
+			"LapTime": 101177,
+			"Sectors": [
+				23912,
+				43169,
+				34096
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3959374,
+			"LapTime": 101831,
+			"Sectors": [
+				23892,
+				43519,
+				34420
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3959945,
+			"LapTime": 101599,
+			"Sectors": [
+				23628,
+				43154,
+				34817
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3960437,
+			"LapTime": 101764,
+			"Sectors": [
+				23568,
+				43240,
+				34956
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 3960970,
+			"LapTime": 101153,
+			"Sectors": [
+				23506,
+				42435,
+				35212
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4055842,
+			"LapTime": 100418,
+			"Sectors": [
+				23761,
+				42637,
+				34020
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4060016,
+			"LapTime": 101559,
+			"Sectors": [
+				24032,
+				43155,
+				34372
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4060393,
+			"LapTime": 101023,
+			"Sectors": [
+				23726,
+				42791,
+				34506
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4060420,
+			"LapTime": 99986,
+			"Sectors": [
+				23595,
+				42642,
+				33749
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4061342,
+			"LapTime": 100380,
+			"Sectors": [
+				24060,
+				42210,
+				34110
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4062616,
+			"LapTime": 102677,
+			"Sectors": [
+				23540,
+				44892,
+				34245
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4156577,
+			"LapTime": 100735,
+			"Sectors": [
+				23979,
+				42817,
+				33939
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4160797,
+			"LapTime": 100379,
+			"Sectors": [
+				24096,
+				42713,
+				33570
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4161783,
+			"LapTime": 101390,
+			"Sectors": [
+				24098,
+				43466,
+				33826
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4163635,
+			"LapTime": 102294,
+			"Sectors": [
+				23741,
+				44550,
+				34003
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4163659,
+			"LapTime": 103643,
+			"Sectors": [
+				24209,
+				44749,
+				34685
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4164145,
+			"LapTime": 101527,
+			"Sectors": [
+				23754,
+				43569,
+				34204
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4257133,
+			"LapTime": 100558,
+			"Sectors": [
+				23671,
+				42782,
+				34105
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4259851,
+			"LapTime": 99052,
+			"Sectors": [
+				23538,
+				41962,
+				33552
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4262256,
+			"LapTime": 100474,
+			"Sectors": [
+				24032,
+				42444,
+				33998
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4264262,
+			"LapTime": 100624,
+			"Sectors": [
+				24043,
+				42583,
+				33998
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4268123,
+			"LapTime": 103969,
+			"Sectors": [
+				23968,
+				45779,
+				34222
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4271357,
+			"LapTime": 107692,
+			"Sectors": [
+				24176,
+				44244,
+				39272
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4357143,
+			"LapTime": 100009,
+			"Sectors": [
+				23514,
+				42673,
+				33822
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4358720,
+			"LapTime": 98862,
+			"Sectors": [
+				23302,
+				42044,
+				33516
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4363271,
+			"LapTime": 101004,
+			"Sectors": [
+				23437,
+				42449,
+				35118
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4364490,
+			"LapTime": 100229,
+			"Sectors": [
+				23774,
+				42570,
+				33885
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4369135,
+			"LapTime": 101017,
+			"Sectors": [
+				24009,
+				42993,
+				34015
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4373811,
+			"LapTime": 102457,
+			"Sectors": [
+				24405,
+				43542,
+				34510
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4457250,
+			"LapTime": 100104,
+			"Sectors": [
+				23730,
+				42479,
+				33895
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4457965,
+			"LapTime": 99252,
+			"Sectors": [
+				23346,
+				42299,
+				33607
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4463164,
+			"LapTime": 99895,
+			"Sectors": [
+				23534,
+				42444,
+				33917
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4464839,
+			"LapTime": 100357,
+			"Sectors": [
+				23461,
+				42773,
+				34123
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4470345,
+			"LapTime": 101211,
+			"Sectors": [
+				23774,
+				42697,
+				34740
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4476389,
+			"LapTime": 102570,
+			"Sectors": [
+				24027,
+				43208,
+				35335
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4557852,
+			"LapTime": 100606,
+			"Sectors": [
+				23633,
+				42706,
+				34267
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4557898,
+			"LapTime": 99935,
+			"Sectors": [
+				23624,
+				42305,
+				34006
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4563808,
+			"LapTime": 100652,
+			"Sectors": [
+				23549,
+				42751,
+				34352
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4564922,
+			"LapTime": 100077,
+			"Sectors": [
+				23748,
+				42263,
+				34066
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4571079,
+			"LapTime": 100728,
+			"Sectors": [
+				23701,
+				42746,
+				34281
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4600358,
+			"LapTime": 123974,
+			"Sectors": [
+				24057,
+				49130,
+				50787
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Pucho",
+			"DriverGuid": "76561198012330297",
+			"CarId": 8,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4658274,
+			"LapTime": 100370,
+			"Sectors": [
+				24420,
+				42295,
+				33655
+			],
+			"Cuts": 0,
+			"BallastKG": 58,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Connor McSida",
+			"DriverGuid": "76561198007338298",
+			"CarId": 1,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4659062,
+			"LapTime": 101211,
+			"Sectors": [
+				24256,
+				43033,
+				33922
+			],
+			"Cuts": 0,
+			"BallastKG": 46,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Javier Luces",
+			"DriverGuid": "76561198035936992",
+			"CarId": 4,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4663495,
+			"LapTime": 99691,
+			"Sectors": [
+				23501,
+				42391,
+				33799
+			],
+			"Cuts": 0,
+			"BallastKG": 37,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alanvique",
+			"DriverGuid": "76561198310053137",
+			"CarId": 9,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4665320,
+			"LapTime": 100408,
+			"Sectors": [
+				23571,
+				42677,
+				34160
+			],
+			"Cuts": 0,
+			"BallastKG": 56,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "SantiSaccu",
+			"DriverGuid": "76561198849359827",
+			"CarId": 10,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4672561,
+			"LapTime": 101479,
+			"Sectors": [
+				23665,
+				43322,
+				34492
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		},
+		{
+			"DriverName": "Alejo Almondiga",
+			"DriverGuid": "76561198049009835",
+			"CarId": 11,
+			"CarModel": "fiat_tipo_competizione",
+			"Timestamp": 4704663,
+			"LapTime": 104312,
+			"Sectors": [
+				24762,
+				44909,
+				34641
+			],
+			"Cuts": 0,
+			"BallastKG": 0,
+			"Tyre": "M",
+			"Restrictor": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "Connor McSida",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198007338298",
+				"GuidsList": [
+					"76561198007338298"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 10.693159,
+			"WorldPosition": {
+				"X": -42.062504,
+				"Y": 18.506641,
+				"Z": 23.56718
+			},
+			"RelPosition": {
+				"X": 0.9174281,
+				"Y": -0.32368964,
+				"Z": 0.15207335
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "Connor McSida",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198007338298",
+				"GuidsList": [
+					"76561198007338298"
+				]
+			},
+			"ImpactSpeed": 6.929536,
+			"WorldPosition": {
+				"X": -42.17567,
+				"Y": 18.544685,
+				"Z": 23.78152
+			},
+			"RelPosition": {
+				"X": -0.91013527,
+				"Y": -0.26025707,
+				"Z": 0.44190335
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"ImpactSpeed": 12.147035,
+			"WorldPosition": {
+				"X": -25.381907,
+				"Y": 17.859213,
+				"Z": -48.93522
+			},
+			"RelPosition": {
+				"X": 0.6110254,
+				"Y": 0.14800969,
+				"Z": -2.5895247
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 9.419268,
+			"WorldPosition": {
+				"X": -25.442646,
+				"Y": 17.84803,
+				"Z": -48.985573
+			},
+			"RelPosition": {
+				"X": -0.5493737,
+				"Y": 0.22009677,
+				"Z": 1.5911498
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"ImpactSpeed": 3.0997124,
+			"WorldPosition": {
+				"X": -580.35785,
+				"Y": 7.395527,
+				"Z": -212.74158
+			},
+			"RelPosition": {
+				"X": 0.9151793,
+				"Y": -0.2903183,
+				"Z": 0.30657786
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"ImpactSpeed": 10.954643,
+			"WorldPosition": {
+				"X": -580.103,
+				"Y": 7.3903513,
+				"Z": -212.45013
+			},
+			"RelPosition": {
+				"X": -0.893612,
+				"Y": -0.3334958,
+				"Z": 0.6785975
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "Tilli",
+				"Team": "",
+				"Nation": "ITA",
+				"Guid": "76561198050719877",
+				"GuidsList": [
+					"76561198050719877"
+				]
+			},
+			"ImpactSpeed": 10.622914,
+			"WorldPosition": {
+				"X": 306.3822,
+				"Y": 35.72237,
+				"Z": -51.511032
+			},
+			"RelPosition": {
+				"X": -0.9099467,
+				"Y": -0.32896173,
+				"Z": 0.42706898
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"ImpactSpeed": 3.2355835,
+			"WorldPosition": {
+				"X": 360.72836,
+				"Y": 27.710445,
+				"Z": 82.29083
+			},
+			"RelPosition": {
+				"X": -0.91197264,
+				"Y": -0.28842553,
+				"Z": 0.30682907
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 7.479106,
+			"WorldPosition": {
+				"X": 360.68817,
+				"Y": 27.704477,
+				"Z": 82.29645
+			},
+			"RelPosition": {
+				"X": 0.91534805,
+				"Y": -0.32666337,
+				"Z": 0.30194736
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 4.341664,
+			"WorldPosition": {
+				"X": -209.43063,
+				"Y": 14.464843,
+				"Z": -159.24284
+			},
+			"RelPosition": {
+				"X": -0.831067,
+				"Y": -0.2671547,
+				"Z": -2.2026422
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 2.5393603,
+			"WorldPosition": {
+				"X": -228.1176,
+				"Y": 14.473627,
+				"Z": -161.93196
+			},
+			"RelPosition": {
+				"X": 0.85335386,
+				"Y": -0.25381568,
+				"Z": 1.3826092
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 10.416316,
+			"WorldPosition": {
+				"X": 71.89698,
+				"Y": 18.807129,
+				"Z": 81.47182
+			},
+			"RelPosition": {
+				"X": 0.5824281,
+				"Y": -0.06515017,
+				"Z": -2.567709
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 9.3200655,
+			"WorldPosition": {
+				"X": 72.19867,
+				"Y": 18.963629,
+				"Z": 81.69704
+			},
+			"RelPosition": {
+				"X": 0.0000029206276,
+				"Y": 0.10360998,
+				"Z": 1.717516
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"ImpactSpeed": 14.958944,
+			"WorldPosition": {
+				"X": 127.45231,
+				"Y": 20.976301,
+				"Z": 97.495224
+			},
+			"RelPosition": {
+				"X": -0.011108935,
+				"Y": 0.086795986,
+				"Z": -2.69657
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"ImpactSpeed": 14.572131,
+			"WorldPosition": {
+				"X": 127.85325,
+				"Y": 20.979473,
+				"Z": 97.686325
+			},
+			"RelPosition": {
+				"X": 0.26695797,
+				"Y": 0.11109404,
+				"Z": 1.6903356
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"ImpactSpeed": 17.520752,
+			"WorldPosition": {
+				"X": 378.59073,
+				"Y": 28.669687,
+				"Z": 73.69851
+			},
+			"RelPosition": {
+				"X": 0.854931,
+				"Y": -0.22358426,
+				"Z": 1.3805345
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"ImpactSpeed": 11.7033415,
+			"WorldPosition": {
+				"X": 378.77618,
+				"Y": 28.735977,
+				"Z": 73.568756
+			},
+			"RelPosition": {
+				"X": -0.8744317,
+				"Y": -0.1375838,
+				"Z": 0.7022535
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 4.5412917,
+			"WorldPosition": {
+				"X": 515.30896,
+				"Y": 28.537176,
+				"Z": 167.60423
+			},
+			"RelPosition": {
+				"X": -0.6122367,
+				"Y": -0.06505077,
+				"Z": -2.5692592
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 3.3596683,
+			"WorldPosition": {
+				"X": 514.0456,
+				"Y": 28.493074,
+				"Z": 167.96642
+			},
+			"RelPosition": {
+				"X": -4.172325e-7,
+				"Y": -0.033928882,
+				"Z": 1.7520926
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 21.68845,
+			"WorldPosition": {
+				"X": 217.74107,
+				"Y": 27.17385,
+				"Z": -89.24844
+			},
+			"RelPosition": {
+				"X": -0.85400736,
+				"Y": -0.32794002,
+				"Z": 1.3504994
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 16.300545,
+			"WorldPosition": {
+				"X": 218.40431,
+				"Y": 27.589464,
+				"Z": -88.288124
+			},
+			"RelPosition": {
+				"X": 0.8881978,
+				"Y": 0.112050876,
+				"Z": -2.0306818
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"ImpactSpeed": 8.0499115,
+			"WorldPosition": {
+				"X": 181.44284,
+				"Y": 28.297821,
+				"Z": -52.529305
+			},
+			"RelPosition": {
+				"X": -0.88186705,
+				"Y": 0.03776219,
+				"Z": -1.9838341
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 6.689335,
+			"WorldPosition": {
+				"X": 181.38724,
+				"Y": 28.29634,
+				"Z": -52.547855
+			},
+			"RelPosition": {
+				"X": 0.86050105,
+				"Y": 0.0637324,
+				"Z": 1.3604814
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"ImpactSpeed": 8.122034,
+			"WorldPosition": {
+				"X": 51.015945,
+				"Y": 18.409206,
+				"Z": 36.27556
+			},
+			"RelPosition": {
+				"X": 0.22792521,
+				"Y": -0.114825495,
+				"Z": -2.621685
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 7.054525,
+			"WorldPosition": {
+				"X": 51.043816,
+				"Y": 18.392328,
+				"Z": 36.74179
+			},
+			"RelPosition": {
+				"X": 0.0006864853,
+				"Y": -0.05045861,
+				"Z": 1.7449216
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"ImpactSpeed": 14.206492,
+			"WorldPosition": {
+				"X": 219.38083,
+				"Y": 27.96758,
+				"Z": -94.208855
+			},
+			"RelPosition": {
+				"X": -0.4266507,
+				"Y": 0.19785467,
+				"Z": 1.6533842
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"ImpactSpeed": 20.816172,
+			"WorldPosition": {
+				"X": 219.37975,
+				"Y": 27.943378,
+				"Z": -94.237236
+			},
+			"RelPosition": {
+				"X": -0.4123509,
+				"Y": 0.10403362,
+				"Z": -2.6303196
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 34.59206,
+			"WorldPosition": {
+				"X": 407.63257,
+				"Y": 29.488308,
+				"Z": 81.55253
+			},
+			"RelPosition": {
+				"X": -0.3655784,
+				"Y": -0.329765,
+				"Z": 1.6753902
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Alejo Almondiga",
+				"Team": "",
+				"Nation": "PLA",
+				"Guid": "76561198049009835",
+				"GuidsList": [
+					"76561198049009835"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 11.037879,
+			"WorldPosition": {
+				"X": 409.59982,
+				"Y": 29.586023,
+				"Z": 77.35401
+			},
+			"RelPosition": {
+				"X": -0.85254174,
+				"Y": -0.34638673,
+				"Z": 1.3890992
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "Connor McSida",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198007338298",
+				"GuidsList": [
+					"76561198007338298"
+				]
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"ImpactSpeed": 50.309032,
+			"WorldPosition": {
+				"X": -46.05024,
+				"Y": 19.14169,
+				"Z": 33.82892
+			},
+			"RelPosition": {
+				"X": -0.30784214,
+				"Y": 0.13304986,
+				"Z": 1.6724356
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "Connor McSida",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198007338298",
+				"GuidsList": [
+					"76561198007338298"
+				]
+			},
+			"ImpactSpeed": 50.987812,
+			"WorldPosition": {
+				"X": -46.22525,
+				"Y": 18.978163,
+				"Z": 33.534
+			},
+			"RelPosition": {
+				"X": 0.31208682,
+				"Y": -0.07755334,
+				"Z": -2.5433862
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 99.13809,
+			"WorldPosition": {
+				"X": -8.307411,
+				"Y": 18.174898,
+				"Z": -13.577858
+			},
+			"RelPosition": {
+				"X": 0.5594782,
+				"Y": -0.22106127,
+				"Z": 1.6193037
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 91.42352,
+			"WorldPosition": {
+				"X": 4.4262075,
+				"Y": 18.468767,
+				"Z": -22.98421
+			},
+			"RelPosition": {
+				"X": 0.61224055,
+				"Y": 0.047340184,
+				"Z": -2.5870128
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 21.006096,
+			"WorldPosition": {
+				"X": 11.398573,
+				"Y": 19.055876,
+				"Z": -25.526299
+			},
+			"RelPosition": {
+				"X": -0.9174292,
+				"Y": -0.2929225,
+				"Z": -1.3841043
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"ImpactSpeed": 98.25527,
+			"WorldPosition": {
+				"X": -8.147144,
+				"Y": 18.168142,
+				"Z": -13.678185
+			},
+			"RelPosition": {
+				"X": -0.8932092,
+				"Y": -0.28365055,
+				"Z": -1.858619
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Pucho",
+				"Team": "",
+				"Nation": "",
+				"Guid": "76561198012330297",
+				"GuidsList": [
+					"76561198012330297"
+				]
+			},
+			"ImpactSpeed": 21.860544,
+			"WorldPosition": {
+				"X": 4.501991,
+				"Y": 18.764854,
+				"Z": -23.282984
+			},
+			"RelPosition": {
+				"X": 0.33146212,
+				"Y": 0.43759385,
+				"Z": 0.84319955
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 19.021553,
+			"WorldPosition": {
+				"X": 12.465179,
+				"Y": 18.517212,
+				"Z": -30.499916
+			},
+			"RelPosition": {
+				"X": 0.60323596,
+				"Y": 0.11511354,
+				"Z": -2.5675235
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Javier Luces",
+				"Team": "",
+				"Nation": "URY",
+				"Guid": "76561198035936992",
+				"GuidsList": [
+					"76561198035936992"
+				]
+			},
+			"ImpactSpeed": 16.56017,
+			"WorldPosition": {
+				"X": 7.0054994,
+				"Y": 18.491735,
+				"Z": -28.884758
+			},
+			"RelPosition": {
+				"X": 0.58575296,
+				"Y": 0.30495527,
+				"Z": 1.1838337
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Alanvique",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198310053137",
+				"GuidsList": [
+					"76561198310053137"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 50.455956,
+			"WorldPosition": {
+				"X": 13.511489,
+				"Y": 18.477488,
+				"Z": -35.97356
+			},
+			"RelPosition": {
+				"X": -0.8288703,
+				"Y": 0.17110573,
+				"Z": 1.334395
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "SantiSaccu",
+				"Team": "",
+				"Nation": "ARG",
+				"Guid": "76561198849359827",
+				"GuidsList": [
+					"76561198849359827"
+				]
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Nation": "",
+				"Guid": "",
+				"GuidsList": null
+			},
+			"ImpactSpeed": 56.99882,
+			"WorldPosition": {
+				"X": 12.610215,
+				"Y": 17.996645,
+				"Z": -30.830917
+			},
+			"RelPosition": {
+				"X": -0.48543257,
+				"Y": -0.32953176,
+				"Z": 1.7076584
+			}
+		}
+	]
+}
