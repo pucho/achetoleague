@@ -1,4 +1,4 @@
-import { Event, User, users, pointsRace1, pointsRace2 } from "./data";
+import { Event, pointsRace1, pointsRace2 } from "./data";
 
 export const addPointsToEvent = (event: Event) => {
   const race1WithoutPoints = [...event.race1];
@@ -15,7 +15,7 @@ export const addPointsToEvent = (event: Event) => {
   }));
 
   //merge both user lists to have race1 and race2 points on each user object.
-  let mergedPoints = race1WithPoints.map((user, index) => {
+  let mergedPoints = race1WithPoints.map((user) => {
     //map 2ndrace points and assign to race1 user object
     const pilot2ndRace = race2WithPoints.find((pilot) => pilot.id === user.id);
     return { ...user, ...pilot2ndRace };
@@ -31,6 +31,17 @@ export const addPointsToEvent = (event: Event) => {
       }
     }),
     replays: event.replays,
-    ///testing deploy
   };
 };
+
+
+export const fetcher = (query) =>
+  fetch('/api/graphql', {
+    method: 'POST',
+    headers: {
+      'Content-type': 'application/json',
+    },
+    body: JSON.stringify({ query }),
+  })
+    .then((res) => res.json())
+    .then((json) => json.data)
