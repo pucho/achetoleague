@@ -10,7 +10,7 @@
 // 133654c1-e029-4201-a7aa-08db993d227a
 // dcb6352b-7249-4a8c-999f-84cb40ae1768
 
-export type User = { name: string; id: string; race1?: number; race2?: number };
+export type User = { name: string; id: string; race1?: number; race2?: number, steamId?: string };
 export type Event = {
   name: string;
   race1: User[];
@@ -19,18 +19,18 @@ export type Event = {
 };
 
 export const users: User[] = [
-  { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09" },
-  { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c" },
-  { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339" },
-  { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba" },
-  { name: "uyrace", id: "8d403e4d-b053-4474-80e8-1e65af042425" },
-  { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f" },
-  { name: "tisho", id: "d138a547-0f43-482b-a189-88346be799bf" },
-  { name: "manije", id: "6652adb4-304e-44a0-aede-a95070529569" },
-  { name: "etarra", id: "f44f1372-0872-44e4-a0b5-a9f518a86fec" },
-  { name: "liderguitar", id: "616c1a7d-069c-4f89-97b9-317eba3668e5" },
-  { name: "pinpon", id: "d12f3e23-deae-4b7f-a8e5-f49a195a2e5b" },
-  { name: "ketu", id: "9ac46398-f344-4f59-8222-4da6680f70c8" },
+  { name: "pucho", id: "a25ca502-536a-4a12-a38b-373d64e35e09", steamId: "76561198012330297" },
+  { name: "pelado", id: "ba9b5968-5cc0-42b4-a093-5766fff6c07c", steamId: "76561198310053137" },
+  { name: "santicacu", id: "8a89fb3c-86da-4f5a-8d2e-9950c3bf8339", steamId: "76561198849359827" },
+  { name: "mcsida", id: "f332ba3a-caa6-4b0c-af5e-728d30471eba", steamId: "76561198007338298" },
+  { name: "uyrace", id: "8d403e4d-b053-4474-80e8-1e65af042425", steamId: "76561198076767014" },
+  { name: "ro bochi", id: "769b8ed4-12e5-4e55-b3f9-9afae77a192f", steamId: "76561198049009835" },
+  { name: "tisho", id: "d138a547-0f43-482b-a189-88346be799bf", steamId: "76561198050719877" },
+  { name: "manije", id: "6652adb4-304e-44a0-aede-a95070529569", steamId: "76561198074280336" },
+  { name: "etarra", id: "f44f1372-0872-44e4-a0b5-a9f518a86fec", steamId: "76561198035936992" },
+  { name: "liderguitar", id: "616c1a7d-069c-4f89-97b9-317eba3668e5", steamId: "76561198028351503" },
+  { name: "pinpon", id: "d12f3e23-deae-4b7f-a8e5-f49a195a2e5b", steamId: "76561198013489022" },
+  { name: "ketu", id: "9ac46398-f344-4f59-8222-4da6680f70c8", steamId: "76561197965466682" },
 ];
 
 const donington = {
@@ -142,7 +142,5 @@ const okayama = {
 //update after each round
 export const events = [donington, brandshatch, redbullring, okayama];
 
-type raceType = "race1" | "race2";
-type raceResults = User[];
 export const pointsRace1 = [25, 18, 15, 12, 10, 8, 6, 4, 2, 1, 0, 0];
 export const pointsRace2 = [15, 12, 10, 8, 6, 4, 2, 1, 0, 0, 0, 0];

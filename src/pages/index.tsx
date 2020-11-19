@@ -1,6 +1,4 @@
-import Link from "next/link";
-
-import { events, User } from "../data";
+import { events } from "../data";
 import { addPointsToEvent } from "../utils";
 import EventRow from "../components/EventRow";
 
