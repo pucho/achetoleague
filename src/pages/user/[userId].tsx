@@ -9,9 +9,13 @@ const UserProfile = () => {
   const selectedUser = users.find((user) => user.id === userId);
   console.log(selectedUser);
 
+  if (!selectedUser) return <div>...loading</div>;
+
   return (
-    <div>
-      <h1>Pelode {userId}</h1>
+    <div className="">
+      <h1>
+        {selectedUser.name} {selectedUser.id}
+      </h1>
     </div>
   );
 };
