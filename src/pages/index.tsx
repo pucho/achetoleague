@@ -7,7 +7,7 @@ function Index() {
     return addPointsToEvent(race);
   });
   return (
-    <div className="container mx-auto px-4 bg-gray-900">
+    <div className="container mx-auto px-4 bg-gray-900 max-w-screen-sm">
       {raceResults.map(({ name, results, replays }) => {
         return (
           <div key={name} className="divide-y-2 divide-solid divide-gray-100">
@@ -34,7 +34,7 @@ function Index() {
                     <a
                       target="_blank"
                       href={replay}
-                      key={replay}
+                      key={`${replay}${index}`}
                       className="text-white"
                     >
                       {`Replay Carrera ${index + 1}`}

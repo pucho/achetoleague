@@ -7,11 +7,13 @@ const UserProfile = () => {
   const { userId } = router.query;
 
   const selectedUser = users.find((user) => user.id === userId);
-  console.log(selectedUser);
 
+  const { name, id } = selectedUser;
   return (
-    <div>
-      <h1>Pelode {userId}</h1>
+    <div className="container mx-auto px-4 bg-gray-900 max-w-screen-sm border-2 border-indigo-200 rounded">
+      <h1 className="text-white text-center">
+        {name} - {id}
+      </h1>
     </div>
   );
 };
